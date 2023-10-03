@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/apparel-coming-soon/static/css/main.e85bae97.css",
+    "main.js": "/apparel-coming-soon/static/js/main.9a4ea490.js",
+    "static/js/787.310b0e7e.chunk.js": "/apparel-coming-soon/static/js/787.310b0e7e.chunk.js",
+    "static/media/hero-desktop.jpg": "/apparel-coming-soon/static/media/hero-desktop.659bc9a7221d265fe28f.jpg",
+    "static/media/logo.svg": "/apparel-coming-soon/static/media/logo.bfe35add16fb8c010b0231ce711541c6.svg",
+    "static/media/bg-pattern-desktop.svg": "/apparel-coming-soon/static/media/bg-pattern-desktop.964ebd4dd8014fd040d7.svg",
+    "index.html": "/apparel-coming-soon/index.html",
+    "main.e85bae97.css.map": "/apparel-coming-soon/static/css/main.e85bae97.css.map",
+    "main.9a4ea490.js.map": "/apparel-coming-soon/static/js/main.9a4ea490.js.map",
+    "787.310b0e7e.chunk.js.map": "/apparel-coming-soon/static/js/787.310b0e7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e85bae97.css",
+    "static/js/main.9a4ea490.js"
+  ]
+}
